@@ -35,3 +35,8 @@ This is a repository for students at department of Physics, Faculty of Science, 
     - สำหรับ แกนของ colorbar ให้ใช้ fontsize 16 และตัวเลขขนาด 14
     - ส่วนตัวอักษรที่ระบุ "JWST sources at z=7-14" ใช้ขนาด 14 
     
+9. Save figure เป็นไฟล์ PNG ช่ือเดียวกับ ชื่อไฟล์ ipynb 
+
+10. Download ไฟล์ ipynb แล้ว submit พร้อมไฟล์ภาพ ที่ google classroom 
+
+ขอให้ทุกคนโชคดี 
