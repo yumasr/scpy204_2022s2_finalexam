@@ -12,7 +12,7 @@ This is a repository for students at department of Physics, Faculty of Science, 
 
 2. ในไฟล์ที่เปิดไว้ตามข้อ 1 Clone github นี้ไป จะมีไฟล์ข้อมูลที่ต้องการอยู่ โดยใช้คำสั่งต่อไปนี้ 
 ```
-!git clone "https://github.com/yumasr/scpy204_2022s2.git"
+!git clone "https://github.com/yumasr/scpy204_2022s2_finalexam.git"
 ```
 
 3. ไฟล์ข้อมูลที่จะต้องใช้ มี 2 ไฟล์ คือ 
