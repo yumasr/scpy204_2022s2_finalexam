@@ -2,7 +2,7 @@
 This is a repository for students at department of Physics, Faculty of Science, Mahidol university. 
 
 # คำชี้แจงข้อสอบปลายภาควิชา SCPY204 
-จุดประสงค์สูงสุดของข้อสอบนี้คือ นักศึกษาสามารถใช้ python ในการสร้างกราฟให้หน้าตาเหมือนกราฟตัวอย่างด้านล่างนี้ 
+จุดประสงค์สูงสุดของข้อสอบนี้คือ นักศึกษาสามารถใช้ package Matplotlib ใน python เพื่อสร้างกราฟให้หน้าตาเหมือนกราฟตัวอย่างด้านล่างนี้ 
 
 ![SCPY204_finalExam_plot](https://user-images.githubusercontent.com/52993686/235397567-575b9d16-a70a-4d79-a69f-52e18c85d6ce.png)
 
