@@ -40,3 +40,7 @@ This is a repository for students at department of Physics, Faculty of Science, 
 10. Download ไฟล์ ipynb แล้ว submit พร้อมไฟล์ภาพ ที่ google classroom 
 
 ขอให้ทุกคนโชคดี 
+
+
+หมายเหตุ เว็บที่ใช้เป็นแหล่งหาข้อมูล https://matplotlib.org/stable/gallery/lines_bars_and_markers/index.html
+ลองกดดูที่รูปตัวอย่าง มันจะมี code ที่เค้าใช้ สามารถนำมาประยุกต์ใช้ได้เลย 
